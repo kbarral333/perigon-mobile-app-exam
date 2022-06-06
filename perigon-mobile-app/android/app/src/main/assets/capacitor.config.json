@@ -1,0 +1,6 @@
+{
+	"appId": "perigon.test.com",
+	"appName": "perigon-mobile-app",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
